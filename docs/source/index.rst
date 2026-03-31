@@ -16,3 +16,4 @@ Welcome to NMD Ontology's documentation!
    clinical-assessment/index
    phenotype/index
    OLS-setup/index
+   implementation-choices-and-underlying-ontologies/index.rst
