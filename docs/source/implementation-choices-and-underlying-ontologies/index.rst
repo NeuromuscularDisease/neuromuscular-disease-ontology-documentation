@@ -9,7 +9,7 @@ The NMD Domain Ontology embraces existing ontologies. By design, it prefers not 
 **Design choices**
 ^^^^^^^^^^^^^^
 - Use CARE-SM as a common data model (with possible mappings to OMOP).
-- Ensure that the NMD ontology follows the CARE-SM<https://github.com/CARE-SM> data model logics. This means, for example, clear separation of a measurement process and the measurement that is output from that process
+- Ensure that the NMD ontology follows the `CARE-SM <https://github.com/CARE-SM>`_ data model logics. This means, for example, clear separation of a measurement process and the measurement that is output from that process
 - Use existing ontology terms and definitions as much as possible. 
 - Attach standard operating procedures for assessment and link these to the ontology terms. 
 
