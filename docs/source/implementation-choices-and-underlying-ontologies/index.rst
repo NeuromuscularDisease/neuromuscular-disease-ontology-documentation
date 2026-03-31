@@ -14,6 +14,7 @@ The NMD Domain Ontology embraces existing ontologies. By design, it prefers not 
 - Attach standard operating procedures for assessment and link these to the ontology terms. 
 
 **Hierarchy of ontologies to be (partially) incorporated**
+
 - Disease – primary ontologies MONDO; secondary ORDO, SNOMED, ICD10/11
 - Phenotype – primary ontology HPO; secondary PhenX
 - Clinical assessment – primary ontologies NCIT; secondary SNOMED
