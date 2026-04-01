@@ -7,4 +7,4 @@ How-to Guides
    :caption: Contents
   
    standard-ODK-workflows/index
-   contributing
+   contribution
