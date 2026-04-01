@@ -17,3 +17,4 @@ Welcome to NMD Ontology's documentation!
    phenotype/index
    OLS-setup/index
    implementation-choices-and-underlying-ontologies/index.rst
+   technical-documentation/index.rst
