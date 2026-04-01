@@ -6,5 +6,5 @@ How-to Guides
    :maxdepth: 1
    :caption: Contents
   
-   standard-ODK-workflows/index.rst
+   Standard ODK workflows <standard-ODK-workflows/index>
    Contribution <contribution/index>
