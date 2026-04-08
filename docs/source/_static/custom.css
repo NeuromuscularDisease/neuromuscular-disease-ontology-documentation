@@ -11247,7 +11247,8 @@ html {
     padding: 1.618em 3.236em;
     height: 100%;
     max-width: 800px;
-    margin: auto
+    margin-left: 99.2px;
+    margin-right: 99.2px;
 }
 
 .wy-body-mask {
@@ -12308,9 +12309,24 @@ a.reference.internal:hover {
     text-decoration: underline;  /* opcional, puedes poner none si no quieres subrayado */
 }
 
-/* Selecciona el contenedor flotante en la esquina inferior derecha */
-.floating.container.bottom-right {
-    background-color: #3c1f52;  /* fondo */
-    color: #ffffff;              /* color del texto o ícono */        
-    padding: 10px;               /* espacio interno */
+.wy-nav-side {
+    background: #2b2b2b;
+}
+
+.wy-menu-vertical a {
+    color: #cccccc;
+}
+
+.wy-menu-vertical a:hover {
+    background-color: #444;
+    color: #fff;
+}
+
+.wy-menu-vertical li.current > a {
+    background-color: #1e90ff;
+    color: white;
+}
+
+.wy-menu-vertical li.current > a:hover {
+    background-color: #ff4500;
 }
