@@ -12308,25 +12308,3 @@ a.reference.internal:hover {
     color: #fe017f !important;  /* Cambia #ff4500 por el color que quieras */
     text-decoration: underline;  /* opcional, puedes poner none si no quieres subrayado */
 }
-
-.wy-nav-side {
-    background: #2b2b2b;
-}
-
-.wy-menu-vertical a {
-    color: #cccccc;
-}
-
-.wy-menu-vertical a:hover {
-    background-color: #444;
-    color: #fff;
-}
-
-.wy-menu-vertical li.current > a {
-    background-color: #1e90ff;
-    color: white;
-}
-
-.wy-menu-vertical li.current > a:hover {
-    background-color: #ff4500;
-}
