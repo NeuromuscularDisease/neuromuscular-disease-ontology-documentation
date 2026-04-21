@@ -2,4 +2,4 @@ Mappings
 =========
 
 ..toctree:
-phenotype
+  phenotype
