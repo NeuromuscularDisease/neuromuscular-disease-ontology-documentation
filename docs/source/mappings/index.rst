@@ -1,5 +1,8 @@
 Mappings
 =========
 
-..toctree::
-  :phenotype
+.. toctree::
+   :maxdepth: 1
+
+   phenotype
+  
