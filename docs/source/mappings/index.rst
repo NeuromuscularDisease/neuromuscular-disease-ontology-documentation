@@ -1,4 +1,5 @@
 Mappings
 =========
 
-Add mappings info
+..toctree:
+phenotype
