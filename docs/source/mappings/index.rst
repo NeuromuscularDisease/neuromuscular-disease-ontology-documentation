@@ -1,5 +1,5 @@
 Mappings
 =========
 
-..toctree:
-  phenotype
+..toctree::
+  :phenotype
