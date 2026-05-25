@@ -1,5 +1,13 @@
-Clinical Assessment
+Clinical Outcome Assessment
 ======================
+
+The preferred ontology for the Clinical Outcome Assessments was NCIT. The Ontology Lookup Service was used to select the most appropriate terms from the NCIT ontology. Equivalent terms in SNOMED were linked to the NCIT ontology terms. In case no appropriate terms were found in the NCIT ontology, we proposed new terms to the NCIT ontology team, which will be imported in later releases of the NMDO.
+
+The list of clinical outcome assessments that we started with came from two sources: the Core Data Set for myotonic dystrophy type 1 (DM1) registries (see below) and the list of clinical outcome assessments used in the `EURO-NMD registry <https://ern-euro-nmd.eu/registry/>`_.
+
+
+**Common Data Elements for Myotonic Dystrophy registries**
+^^^^^^^^^^^^^^
 
 As part of the 287th European NeuroMuscular Centre’s workshop, investigators came together to define a core dataset and reported outcome measures that are feasible to collect in a routine care setting that best characterize the phenotypes and progression of myotonic dystrophy type 1 (DM1). Below is the list of assessments that we agreed upon with brief descriptions and expected response values and/or ranges that could be imported into the NMDO. 
 
