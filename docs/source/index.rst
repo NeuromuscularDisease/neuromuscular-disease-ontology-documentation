@@ -12,9 +12,7 @@ Welcome to NMD Ontology's documentation!
    :caption: Contents
 
    scope/index
-   mappings/index
-   clinical-assessment/index
-   phenotype/index
-   OLS-setup/index
    implementation-choices-and-underlying-ontologies/index.rst
+   mappings/index
+   OLS-setup/index
    technical-documentation/index.rst
