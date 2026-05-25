@@ -1,4 +1,4 @@
-Supporting work
+Supporting work on Disease Mappings
 ===============
 
 Orphacode driven disease group classification
