@@ -4,6 +4,7 @@ Mappings
 .. toctree::
    :maxdepth: 1
 
-   phenotype
-   supporting-work
+   clinical-assessment/index
+   phenotype/index
+   supporting-work/index
   
