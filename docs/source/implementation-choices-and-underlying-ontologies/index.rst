@@ -18,8 +18,8 @@ The NMD Domain Ontology embraces existing ontologies. By design, it prefers not 
 - Disease – primary ontologies MONDO; secondary ORDO, SNOMED, ICD10/11
 - Phenotype – primary ontology HPO; secondary PhenX
 - Clinical assessment – primary ontologies NCIT; secondary SNOMED
-- Anatomy – primary ontology Uberon, secondary Uberon
+- Anatomy – primary ontology FMA, secondary Uberon
 - Function and capacity: ICF
-- Assistive devices: ICF
+- Assistive devices: SNOMED
 - Therapies / (life style) intervention – medical action ontology
 
