@@ -4,7 +4,7 @@ Scope of the activity
 =======================
 
 There are many parallel efforts in the neuromuscular disease field regarding the FAIRification of registries, and in particular on the mapping of data elements to ontologies and semantic models. Next to possible inefficiency due to duplicate efforts, this may introduce interoperability problems later on, when we are finding out that different decisions on preferred ontologies, ontology terms, definitions, standard operating procedures and data models have been made. This is an attempt to align ongoing efforts in different projects.
-With a neuromuscular disease (NMD) Domain Ontology (NDO) we will create an ontology with terms that are preferred by the NMD field. The NDO will at least include
+With a NeuroMuscular Disease domain Ontology (NMDO) we will create an ontology with terms that are preferred by the NMD field. The NMDO will at least include
 
 - diseases
 - phenotypes
@@ -20,7 +20,7 @@ Increase interoperability of neuromuscular patient registries through use of com
 **Immediate Aim**
 ^^^^^^^^^^^^^^
 
-Construct the NDO consisting of a collection of existing ontology terms for diseases, phenotypes, clinical assessments, patient reported outcome measures (PROMs) that are to be preferably used by the NMD field, their relationships, and the standard operating procedures / protocols for the clinical assessments and reporting the PROMs.
+Construct the NMDO consisting of a collection of existing ontology terms for diseases, phenotypes, clinical assessments, patient reported outcome measures (PROMs) that are to be preferably used by the NMD field, their relationships, and the standard operating procedures / protocols for the clinical assessments and reporting the PROMs.
 
 **Envisaged primary users**
 ^^^^^^^^^^^^^^
